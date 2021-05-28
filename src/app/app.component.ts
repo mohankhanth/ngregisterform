@@ -7,7 +7,7 @@ import { FlashMessagesService } from 'angular2-flash-messages';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'angularforms';
+  title = 'Mohan swamy';
   constructor(private _flashMessagesService: FlashMessagesService) {}
   onSubmit(form:any) {
     console.log(form.value);
